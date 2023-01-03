@@ -1,0 +1,1 @@
+# Land-Use-Land-Cover-Modelling-of-Satellite-Imagery-using-K-means-Clustering
